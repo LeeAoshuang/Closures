@@ -2,7 +2,7 @@
   "name": "Closures",
   "version": "0.7",
   "summary": "Swifty closures for UIKit and Foundation",
-  "homepage": "https://github.com/vhesener/Closures",
+  "homepage": "https://github.com/KrishnaM0618/Closures",
   "screenshots": [
     "https://raw.githubusercontent.com/vhesener/Closures/assets/assets/playground_general.gif",
     "https://raw.githubusercontent.com/vhesener/Closures/assets/assets/reference_large.png"
@@ -13,7 +13,7 @@
     "ios": "9.0"
   },
   "source": {
-    "git": "https://github.com/vhesener/Closures.git",
+    "git": "https://github.com/KrishnaM0618/Closures.git",
     "tag": "v0.7"
   },
   "source_files": "Xcode/Closures/Source",
